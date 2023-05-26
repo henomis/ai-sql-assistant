@@ -2,7 +2,7 @@
 
 [![Build Status](https://github.com/henomis/ai-sql-assistant/actions/workflows/release.yml/badge.svg)](https://github.com/henomis/ai-sql-assistant/actions/workflows/release.yml) [![GoDoc](https://godoc.org/github.com/henomis/ai-sql-assistant?status.svg)](https://godoc.org/github.com/henomis/ai-sql-assistant) [![Go Report Card](https://goreportcard.com/badge/github.com/henomis/ai-sql-assistant)](https://goreportcard.com/report/github.com/henomis/ai-sql-assistant) [![GitHub release](https://img.shields.io/github/release/henomis/ai-sql-assistant.svg)](https://github.com/henomis/ai-sql-assistant/releases)
 
-This is a simple AI SQL query builder helper written in GO. It uses OpenAI API to generate a plausible SQL query from a given question. Generated query is executed and results are displayed. It only supports MySQL and SQLite for now.
+This is a simple AI SQL query builder helper written in GO. It uses OpenAI API to generate a plausible SQL query from a given question. Generated query is executed and results are displayed. It only supports MySQL and SQLite for now. This project is powered by [LinGoose](https://github.com/henomis/lingoose) 🪿
 
 ![ai-sql-assistant](screen.png)
 
