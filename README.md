@@ -6,6 +6,8 @@ This is a simple AI SQL query builder helper written in GO. It uses OpenAI API t
 
 ![ai-sql-assistant](screen.png)
 
+If you like this project, give it a ⭐️ and share it with friends!
+
 ## Installation
 
 Be sure to have a working Go environment, then run the following command:
@@ -45,3 +47,7 @@ Usage of ./ai-sql-assistant:
 ```
 $ ./ai-sql-assistant -n ./Chinook_Sqlite.sqlite -t sqlite -q "give me top 4 artists name and number of songs"
 ```
+
+## License
+
+© Simone Vellei, 2023~time.Now() Released under the MIT License
